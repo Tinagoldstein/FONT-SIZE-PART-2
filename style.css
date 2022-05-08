@@ -1,0 +1,28 @@
+.copy_right_footer {
+    position:fixed;
+    background-image: linear-gradient(rgb(0, 255, 179),greenyellow, yellow);
+    line-height:4;
+    text-align:center;
+    width:100%;
+    bottom:0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    font-size: 13px;
+    border-radius:100px;
+
+
+}
+
+.heading {
+    margin:0;
+    width: 100%;
+    font-size:23px;
+    box-shadow: 5px 5px 5px rgb(255, 0, 119);
+}
+
+canvas {
+    border: 5px solid whitesmoke;
+    border-radius:20px;
+    box-shadow:indigo 5px 5px 5px;
+}
+
